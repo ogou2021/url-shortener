@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 80%;
+    margin: 2em auto 0 auto;
+  }
+  
+  .ogou-button {
+    text-align: center;
+  }

@@ -1,0 +1,21 @@
+{
+  "name": "ogou.ga",
+  "version": "1.0.0",
+  "description": "A reliable URL Shortener",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "declemz99 <ogou.url@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "monk": "^7.3.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
